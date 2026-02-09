@@ -170,7 +170,7 @@ see the source: https://github.com/hackclub/hackfoundation.org
     },
     {
       year: 2018,
-      link: 'https://apps.irs.gov/pub/epostcard/cor/812908499_201812_990_2020013017086607.pdf'
+      link: 'https://cdn.hackclub.com/019c4373-462c-7d6a-8e20-e605d05fcad4/812908499_201812_990_2020013017086607-2.pdf'
     },
     {
       year: 2017,
